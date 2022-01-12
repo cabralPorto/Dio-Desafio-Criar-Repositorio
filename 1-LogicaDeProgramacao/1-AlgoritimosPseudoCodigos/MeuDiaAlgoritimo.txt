@@ -1,0 +1,109 @@
+Algoritimo 
+
+Acordar:
+
+Acordar 
+Aceder a Luz
+Descer da Cama
+Dobrar Coberta
+Esticar Lensol
+Colocar Travesseiro sobre o cobertor
+Ir até a porta do Quarto
+Abrir a porta do quarto 
+Apagar a Luz
+
+Caminhar até o banheiro
+Abrir a Porta
+Asceder a Luz
+Fechar a porta
+
+Pegar Escovas de Dentes
+Pegar a Pasta de dentes
+Ir até a Pia
+Abrir a pasta
+Colocar Pasta na escova
+Fechar a Pasta de Dentes
+Colocar pasta sobre a Pia
+Abrir a Torneira
+Molhar a escova
+Fechar a Torneira
+Escovar os dentes
+Abrir a Torneira
+Pegar agua
+Levar até a boca
+Fechar torneira
+Fazer Bochecho
+cospir na pia
+Abrir a torneira
+Colocar agua na boca
+Lavar o Rosto
+Fechar torneira
+Cuspir na pia
+Abrir a torneira
+lavar a escova
+lavar a pia
+Fechar a torneira
+Guardar Escovar
+Guardar a Pasta dental
+
+Levantar Tampa do Sanitario
+Fazer xixi
+dar descarga
+Abaixar Tampa Sanitario
+
+ir até a porta
+abrir a porta
+Apagar a Luz 
+Sair do banheiro
+Fechar a Porta
+
+Ir Para cozinha
+Acender a Luz
+Pegar o Bule
+Colocar na Pia 
+Pegar O Recipinte para coar o café
+Colocar na Pia
+Pegar Quador
+colocar sobre o recipiente para coar café
+
+Por agua no bule até o limite estabelecido
+Acender o fogo
+colocar o bule no fogo
+
+ir até a geladeira 
+abrir e pegar o açucar
+Feixar Geladeira
+
+colocar açucar na agua, na medida exata
+ir até a geladeira
+Abrir a porta e guardar o açucar
+Fechar a porta
+
+Pegar o recipiente com pó de café
+colocar a medida correta no quador
+quardar o recipiente com pó de café
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

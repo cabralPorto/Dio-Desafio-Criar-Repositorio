@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="cabra"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-01-06 07:42:12 "/>
+        <attribute name="created" value="Y2FicmE7REVTS1RPUC04OEE1RE1UOzIwMjItMDEtMDY7IjA3OjM3OjM1ICI7Mjc0MA=="/>
+        <attribute name="edited" value="Y2FicmE7REVTS1RPUC04OEE1RE1UOzIwMjItMDEtMDY7IjA3OjQyOjEyICI7MTsyODM5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="numero, limite" type="Integer" array="False" size=""/>
+            <assign variable="numero" expression="0"/>
+            <assign variable="limite" expression="10"/>
+            <while expression="numero&lt;=limite">
+                <output expression="9&amp; &quot; * &quot; &amp; numero &amp; &quot; = &quot; &amp; 9*numero" newline="True"/>
+                <assign variable="numero" expression="numero+1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

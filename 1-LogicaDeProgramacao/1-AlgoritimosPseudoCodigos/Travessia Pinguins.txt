@@ -1,0 +1,50 @@
+
+
+
+
+Senário é o seguinte:
+
+Seis pinguins sendo três adultos e três filhotes precisam 
+atravessar o rio, usando um IceBerg como transporte.
+Os pinguins filhos não podem ficar sozinhos, 
+ou com um adulto estranho que não seja seu pai pois assustam-se e fogem.
+
+Algoritimo Travessia de Pinguim:
+Inicio
+Passo 1 Pinguin Vermelo Filho
+Passo 2	Sobe no Bloco de Gelo
+Passo 3 Pinguin Vermelho Pai
+Passo 4	Sobe no Bloco de Gelo
+Passo 5 Atravessa
+Passo 6 Pinguin Vermelo Pai
+Passo 7 Desce do Bloco de Gelo
+Passo 8 Atravessa
+Passo 9 Pinguin Amarelo Fiho
+Passo 10 Sobe no Bloco de Gelo
+Passo 11 Atravessa
+Passo 12 Pinguim Vermelho Fiho
+Passo 13 Desce do bloco de Gelo
+Passo 14 Atravessa
+Passo 15 Pinguim Amarelo Pai
+Passo 16 Sobe no Bloco de Gelo
+Passo 17 Atravessa
+Passo 18 Pinguim Amarelo Pai
+Passo 19 Desce do bloco de Gelo
+Passo 20 Atravessa
+Passo 21 Pinguim Azul Filho
+Passo 22 Sobe no Bloco de Gelo
+Passo 23 Atravessa
+Passo 24 Pinguin Amarelo Fiho
+Passo 25 Desce do bloco de Gelo
+Passo 26 Atravessa
+Passo 27 Pinguim Azul Pai
+Passo 28 Sobe no Bloco de Gelo
+Passo 29 Atravessa
+Passo 30 Pinguim Azul Pai
+Passo 31 Desce do bloco de Gelo
+Passo 32 Pinguim Azul Filho
+Passo 33 Desce do bloco de Gelo
+
+Fim Algoritimo
+
+fonte: https://rachacuca.com.br/jogos/pinguins-numa-fria/
