@@ -6,9 +6,13 @@
 - [3-Tomada de Decisão Expressões](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/3-TomadaDescisaoExpressoes/)
 - [4-Concatenacao](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/4-Concatenacao) 
 - [5- Estrutura de Repetição](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/5-EstruturaRepetição)
+### Os códigos abaixo usa a liguagem Portugol 
+### Use a IDE **Protugol Studio** o Link para Donwload está nos Linkes Úteis Abaixo.
 - [6-Linguagem de Programação](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/6-LiguagensProgramacao)
 - [7-Desvio Condicionais](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/7-DesviosCondicionais) 
 - [8-Laços de Repetição](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/8-LaçosRepeticao)
 - [9-Matrizes e Vetores](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/9-MatrizesEVetores)
 ## Links Úteis
-[Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
+- [Portugol Studio](http://lite.acad.univali.br/portugol/)
+- [Folwgorithm](http://www.flowgorithm.org/download/)
+- [Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
