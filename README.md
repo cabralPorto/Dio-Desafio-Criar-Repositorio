@@ -3,7 +3,7 @@
  ## Logica de Programação
 - [1-Algoritimo Pseudo Código](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/1-AlgoritimosPseudoCodigos)
 - [2-Fluxogram Variáveis Constantes](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/2-FluxogramaVariaveisConstantes)
-- [3-Tomada de Decisão Expressões](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/3-TomadaDecisoesExpressoes)
+- [3-Tomada de Decisão Expressões](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/3-TomadaDecisoesExpressoes/)
 - [4-Concatenacao](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/4-Concatenacao) 
 - [5- Estrutura de Repetição](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/5-EstruturaREpeticao)
 - [6-Linguagem de Programação](https://github.com/cabralPorto/Dio-Desafio-Criar-Repositorio/tree/main/1-LogicaDeProgramacao/6-LiguagemProgramacao)
